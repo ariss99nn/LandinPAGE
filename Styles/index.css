@@ -1,0 +1,16 @@
+header {
+    background: #343a40; /* Color de fondo del header */
+    color: white; /* Color del texto */
+}
+.main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+}
+.card {
+    margin: 10px;
+}
+/* .carousel-item{
+    height: 100px;
+    width: 100px;
+} */
